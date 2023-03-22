@@ -3,9 +3,8 @@
 /**
  * jack_bauer - print 24hrs time
  *
- * Return: always 0
+ * Return: always 0`
  */
-
 
 void jack_bauer(void)
 {
